@@ -1,0 +1,3 @@
+[submodule "site/themes/ink"]
+	path = site/themes/ink
+	url = https://github.com/knadh/hugo-ink.git
